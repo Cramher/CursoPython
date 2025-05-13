@@ -1,0 +1,4 @@
+Frase dia 1
+Estoy aprendiendo Python de la forma correcta
+
+Frase dia 2
