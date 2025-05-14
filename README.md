@@ -20,3 +20,5 @@ Emitir *presupuestos* para tu empresa.
 - Utilizamos lenguajes de programacionj para comunicarnos con la computadora.
 - Python ejecuta los comandos siguiendo el orden en que se escriben, linea por linea.
 - Es como si fuera un LEGO: se necesitan las piezas y saber como encajarlas en el orden correcto.
+
+

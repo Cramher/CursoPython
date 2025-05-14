@@ -2,3 +2,7 @@ Frase dia 1
 Estoy aprendiendo Python de la forma correcta
 
 Frase dia 2
+Estoy viviendo mi mejor experiencia de aprendizaje
+
+Frase dia 3
+
