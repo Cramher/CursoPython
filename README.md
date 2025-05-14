@@ -21,4 +21,12 @@ Emitir *presupuestos* para tu empresa.
 - Python ejecuta los comandos siguiendo el orden en que se escriben, linea por linea.
 - Es como si fuera un LEGO: se necesitan las piezas y saber como encajarlas en el orden correcto.
 
+## Proyecto 2
+
+### Objetivo
+Crear un programa que interactue directamente con el navegador y el correo de forma automatica.
+
+### Escenario
+Enviar correos con una plantilla determinada automaticamente sin tocar el mouse o el teclado.
+
 
